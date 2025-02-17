@@ -7,7 +7,7 @@
 📊 Apaixonada por estatística, machine learning e Python  
 🚀 Buscando sempre aprender e contribuir para projetos open-source  
 
-![gif1](https://github.com/Amalle26/Amalle26/blob/main/°∙⁺_❝⋆PIXEL%20TWINKLE❞%20٭✧__.gif)
+![gif1](https://github.com/Amalle26/Amalle26/blob/main/src/PIXEL_TWINKLE.gif)
 
 
 
