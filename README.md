@@ -1,7 +1,6 @@
 ##👋 [em construção...]
 
-
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fugaz+One&weight=800&pause=1000&color=FE428E&background=FFFFFF00&width=500&height=60&lines=Ol%C3%A1%2C+eu+sou+a+Amanda+Oliveira%E2%9C%A8%E2%80%8B)](https://git.io/typing-svg)
 
 ###
 
