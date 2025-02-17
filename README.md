@@ -5,7 +5,7 @@
 
 🎓 Estudante de Análise e Ciência de Dados  
 📊 Apaixonada por estatística, machine learning e Python  
-🚀 Buscando sempre aprender e contribuir para projetos open-source  
+🚀 Buscando sempre aprender e me desafiar  
 
 ![gif1](https://github.com/Amalle26/Amalle26/blob/main/src/PIXEL_TWINKLE.gif)
 
