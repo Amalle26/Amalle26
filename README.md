@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=DotGothic16&pause=1000&color=FE428E&background=FFFFFF00&width=500&height=60&lines=Ol%C3%A1%2C+eu+sou+a+Amanda+Oliveira%E2%9C%A8%E2%80%8B)](https://git.io/typing-svg)
 
 🎓 Estudante de Análise e Ciência de Dados  
-📊 Apaixonada por estatística, machine learning e Python  
+📊 Apaixonada por Python, Machine Learning e Estatística 
 🚀 Buscando sempre aprender e me desafiar  
 
 ![gif1](https://github.com/Amalle26/Amalle26/blob/main/src/PIXEL_TWINKLE.gif)
